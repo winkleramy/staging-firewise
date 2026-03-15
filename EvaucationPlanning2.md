@@ -180,6 +180,7 @@ Based on map review and road geometry, the most influential segments appear to b
 3. Map **primary and secondary evacuation routes** for residents.
 4. Coordinate findings with **Santa Cruz County emergency planners and fire agencies**.
 5. Develop a **community evacuation information sheet** showing preferred evacuation directions and alternate routes.
+6. Understand how we will communicate evacuation route conditions in real-time during an evacuation event when cellular service is likely unavailable
 
 ---
 
