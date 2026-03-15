@@ -1,22 +1,20 @@
-**Mt Bache / Loma Prieta Firewise Community**
-**Preliminary Evacuation Readiness Assessment (First-Pass Review)**
-
-Prepared for the Firewise Steering Committee
+# **Mt Bache / Loma Prieta Firewise Community**
+*Preliminary Evacuation Readiness Assessment*
 
 ---
 
 ## Purpose
 
-This memo summarizes an initial review of evacuation readiness for the Mt Bache / Loma Prieta Firewise community. The goal is to identify potential evacuation constraints, estimate possible evacuation clearance times, and guide next steps for improving community preparedness.
+This memo summarizes an updated first-pass review of evacuation readiness for the Mt Bache / Loma Prieta Firewise community. The goal is to estimate how many residents and vehicles may evacuate via **Highland Way → Summit Road → Highway 17**, identify potential choke points, and support discussions with Firewise leaders and local agencies.
 
-This assessment is based on:
+This analysis combines:
 
-• the Firewise community map
-• road network structure
-• regional evacuation corridors
-• lessons from recent wildfires in the Santa Cruz Mountains
+- Firewise parcel mapping
+- regional parcel distribution visible on GIS maps
+- local evacuation behavior (most residents traveling west toward Highway 17)
+- Firewise community population estimates
 
-This is **not a formal traffic study**, but a screening-level analysis to guide discussion and future work.
+This is **not a formal traffic model**, but a planning-level estimate intended to guide preparedness discussions.
 
 ---
 
@@ -60,56 +58,127 @@ Even a partial blockage could significantly slow evacuation.
 
 ---
 
-## Estimated Evacuation Clearance Time
+## Confirmed Firewise Community Population
 
-Because no traffic model exists for this community, a planning range is used.
+The Mt Bache / Loma Prieta Firewise community includes:
 
-| Scenario             | Estimated Vehicles | Effective Road Capacity | Clearance Time  |
-| -------------------- | ------------------ | ----------------------- | --------------- |
-| Low demand           | 100–125            | ~300 vehicles/hr        | ~20–30 minutes  |
-| Moderate demand      | 175–225            | ~250 vehicles/hr        | ~40–55 minutes  |
-| High-stress scenario | 225–300            | ~150–200 vehicles/hr    | ~70–120 minutes |
+* **80 parcels**
+* **~180 residents**
 
-These estimates assume wildfire evacuation conditions on narrow mountain roads.
+Average household size: **~2.25 residents per parcel**
 
----
+For evacuation planning, this corresponds to roughly:
 
-## Likely Areas of Concern
+* **~80–100 vehicles**
 
-Initial review suggests potential choke points in the following areas:
-
-• central connector near the Open Field area
-• northeastern outlet corridor
-• western residential loop cluster
-• southern interior road spine
-
-These areas should be verified through field review.
+depending on whether some households evacuate with more than one vehicle.
 
 ---
 
-## Key Questions for the Steering Committee
+## Estimated Population of the Summit / Loma Prieta Ridge Corridor
 
-1. Which roads serve as the **primary evacuation routes** out of the community?
-2. Where are the **narrowest or most constrained road segments**?
-3. Which neighborhoods rely on **only one practical evacuation route**?
-4. Where could **two vehicles not easily pass** if traffic stops?
-5. Which segments could be blocked by **fallen trees or fire activity**?
+Using parcel density observed in the regional maps and scaling from the confirmed Firewise data, the broader ridge area likely contains:
+
+**~350 to 700 residents**
+
+who could plausibly evacuate west toward **Summit Road → Highway 17**.
+
+A practical midpoint estimate is:
+
+> **~500 residents**
+
+---
+
+## Estimated Vehicles Evacuating West
+
+Using one vehicle per parcel as a baseline assumption:
+
+| Area                                    | Estimated vehicles |
+| --------------------------------------- | ------------------ |
+| Firewise community                      | ~80–100            |
+| Other ridge parcels                     | ~100–200           |
+| **Total westbound evacuation vehicles** | **~180–320**       |
+
+For planning discussions, a useful midpoint is:
+
+> **~225–250 vehicles**
+
+potentially traveling west toward **Highway 17**.
+
+---
+
+## Expected Queue Length
+
+If approximately **225 vehicles** form a continuous evacuation queue:
+
+* average spacing during slow traffic ≈ **30 ft per vehicle**
+* total queue length ≈ **6,750 ft**
+
+This equals roughly:
+
+> **~1.3 miles of queued traffic**
+
+under heavy evacuation conditions.
+
+---
+
+## Estimated Travel Time to Highway 17
+
+From the Mt Bache area via **Highland Way → Summit Road → Hwy 17**:
+
+| Scenario                        | Estimated travel time |
+| ------------------------------- | --------------------- |
+| Early departure / light traffic | ~15–20 minutes        |
+| Typical evacuation conditions   | **~25–35 minutes**    |
+| Heavy congestion or obstruction | ~40–60 minutes        |
+
+Major delay points are likely to occur at:
+
+* merges onto **Highland Way**
+* congestion along **Summit Road**
+* intersections near **Soquel-San Jose Road**
+* ramp access to **Highway 17**
+
+---
+
+## Potential Choke Points
+
+Based on map review and road geometry, the most influential segments appear to be:
+
+1. **Highland Way west of Mt Bache Road**
+   Primary funnel for vehicles leaving the Firewise area.
+
+2. **Highland Way approaching Summit Road**
+   Regional merge point for several ridge communities.
+
+3. **Summit Road near Soquel-San Jose Road intersection**
+   Major convergence of evacuation traffic.
+
+4. **Summit Road approaches to Highway 17**
+   Likely congestion point during large evacuations.
+
+---
+
+## Key Observations
+
+• The Firewise community itself contributes a significant portion of the local evacuation traffic.
+• However, evacuation conditions will be strongly influenced by **traffic from neighboring ridge communities**.
+• Regional congestion along **Summit Road** is likely to control evacuation performance more than local streets alone.
 
 ---
 
 ## Recommended Next Steps
 
-1. Estimate **number of homes and vehicles** inside the community boundary.
-2. Identify and map the **top five evacuation choke points**.
-3. Document **single-egress areas** within the community.
-4. Conduct **field verification of critical road segments**.
-5. Share findings with **local fire agencies and county emergency planners**.
-6. Develop a **community evacuation route map for residents**.
+1. Verify the **number of occupied parcels** along the Summit / Loma Prieta ridge corridor.
+2. Identify and document **narrow road segments and passing constraints** along Highland Way and Summit Road.
+3. Map **primary and secondary evacuation routes** for residents.
+4. Coordinate findings with **Santa Cruz County emergency planners and fire agencies**.
+5. Develop a **community evacuation information sheet** showing preferred evacuation directions and alternate routes.
 
 ---
 
 ## Summary
 
-This initial review suggests that evacuation performance for the Mt Bache / Loma Prieta Firewise community will likely be determined by a small number of internal connectors and regional mountain corridors.
+Based on confirmed Firewise community data and regional parcel estimates, approximately **500 residents and about 225–250 vehicles** may attempt to evacuate west via **Summit Road to Highway 17** during a wildfire event.
 
-Improving evacuation readiness will require identifying critical choke points, understanding how many vehicles may need to evacuate, and coordinating with local agencies to ensure evacuation routes remain accessible during wildfire emergencies.
+Evacuation performance will likely depend on the capacity of **Highland Way, Summit Road, and the Highway 17 access points**, making these corridors the most critical segments to evaluate and maintain.
