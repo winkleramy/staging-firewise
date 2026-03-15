@@ -36,10 +36,10 @@ If one of these segments becomes obstructed or congested, evacuation times could
 
 After leaving the community boundary, most evacuation routes likely rely on regional roads such as:
 
-• Summit Road
-• Soquel-San Jose Road
-• Highway 17 corridor
-• Watsonville / Highway 152 direction
+- Summit Road
+- Soquel-San Jose Road
+- Highway 17 corridor
+- Watsonville / Highway 152 direction
 
 Congestion or closure on these corridors could affect evacuation performance even if internal roads remain open.
 
@@ -47,12 +47,12 @@ Congestion or closure on these corridors could affect evacuation performance eve
 
 Mountain road conditions create vulnerability to:
 
-• fallen trees
-• stalled vehicles
-• limited passing width
-• tight curves
-• smoke or reduced visibility
-• emergency vehicles entering while residents evacuate
+- fallen trees
+- stalled vehicles
+- limited passing width
+- tight curves
+- smoke or reduced visibility
+- emergency vehicles entering while residents evacuate
 
 Even a partial blockage could significantly slow evacuation.
 
