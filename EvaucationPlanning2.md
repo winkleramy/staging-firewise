@@ -56,6 +56,12 @@ Mountain road conditions create vulnerability to:
 
 Even a partial blockage could significantly slow evacuation.
 
+### 5. Regional Congestion
+
+The Firewise community itself contributes a significant portion of the local evacuation traffic. However, evacuation conditions will be strongly influenced by **traffic from neighboring ridge communities**.
+
+Regional congestion along **Summit Road** is likely to control evacuation performance more than local streets alone.
+
 ---
 
 ## Confirmed Firewise Community Population
@@ -161,9 +167,9 @@ Based on map review and road geometry, the most influential segments appear to b
 
 ## Key Observations
 
-• The Firewise community itself contributes a significant portion of the local evacuation traffic.
-• However, evacuation conditions will be strongly influenced by **traffic from neighboring ridge communities**.
-• Regional congestion along **Summit Road** is likely to control evacuation performance more than local streets alone.
+- The Firewise community itself contributes a significant portion of the local evacuation traffic.
+- However, evacuation conditions will be strongly influenced by **traffic from neighboring ridge communities**.
+- Regional congestion along **Summit Road** is likely to control evacuation performance more than local streets alone.
 
 ---
 
