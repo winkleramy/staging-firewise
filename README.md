@@ -89,37 +89,33 @@ To explore additional discounts, visit the California Department of Insurance we
 
 # Recommended Actions
 
-Participation is **completely voluntary**, and every contribution helps
+Participation is **completely voluntary**, and every contribution helps!
 
-Our priorities come from our **Community Survey and [Risk Assessment](Community%20Risk%20Assessment%20-%20Drive-through%20Report.pdf)**
+Our priorities come from our Community Survey and **[Risk Assessment](Community%20Risk%20Assessment%20-%20Drive-through%20Report.pdf)**
 
 ---
 
 ## Home Hardening & Defensible Space
 
-- Sign up for a **free Home Ignition Zone assessment** through the Santa Cruz County Fire Safe Council, https://www.firesafesantacruz.org/HIZ
-- [Join our email list](mailto:firewise@mtbacheloma.org?subject=Add%20Me%20to%20the%20Mt%20Bache%20Loma%20Prieta%20Plus%20Email%20List) before March to receive early access to the Resource Conservation District's
+* Sign up for a **free Home Ignition Zone assessment** through the Santa Cruz County Fire Safe Council, [https://www.firesafesantacruz.org/HIZ](https://www.firesafesantacruz.org/HIZ)
+  
+* [Join our email list](mailto:firewise@mtbacheloma.org?subject=Add%20Me%20to%20the%20Mt%20Bache%20Loma%20Prieta%20Plus%20Email%20List) before March to receive early access to the Resource Conservation District's
   - 🌿 [***Spring No-Cost Chipping Program***](https://www.rcdsantacruz.org/spring-chipping-information)
 
 ---
 
 ## Emergency Services Access
 
-Help firefighters respond safely and efficiently.
-
-Recommended actions:
+Help firefighters respond safely and efficiently
 
 * Install a **reflective address sign**
   (4" retroreflective numbers on a green background)
 
 Available through:
-
-Zayante Fire Reflective Sign Program
+* Zayante Fire Reflective Sign Program
 https://zayantefire.com/reflective-sign-program/
 
-Or from:
-
-https://www.safetysign.com/products/8348/horizontal-911-address-sign
+* Brimar's Safety Sign https://www.safetysign.com/products/8348/horizontal-911-address-sign
 
 Additional actions:
 
@@ -134,22 +130,20 @@ This map provides critical resource information to **CAL FIRE and other emergenc
 
 Install these wildfire and emergency apps:
 
-📱 **Watch Duty**
+* 📱 **Watch Duty**
 https://app.watchduty.org/
 
-📱 **PulsePoint**
+* 📱 **PulsePoint**
 https://www.pulsepoint.org/
 
 Register for Santa Cruz County emergency alerts:
 
-🚨 **CruzAware**
+* 🚨 **CruzAware**
 https://cruzaware.genasys.com/portal/en
 
 You can also join the **neighborhood WhatsApp group** for emergency communication.
 
-If needed, install WhatsApp first:
-
-https://www.whatsapp.com/
+If needed, install WhatsApp first: [https://www.whatsapp.com/](https://www.whatsapp.com/)
 
 Practice alternate evacuation routes such as:
 
@@ -175,62 +169,52 @@ Firewise participation typically includes logging at least:
 
 * **1 hour of wildfire resilience work**, or
 * **$31.80 spent** on home hardening or defensible space improvements.
+* *plus* **1 hour wildfire education** per year
 
 ---
 
 # About Our Community
 
-Our Firewise community formed in **December 2024** after our steering committee submitted:
-
-* A **Community Risk Assessment**
-* A **Three-Year Action Plan**
-
-to the **National Fire Protection Association (NFPA)**.
+Our Firewise community formed in **December 2024** after our steering committee submitted a **Community Risk Assessment** and **Three-Year Action Plan** to the **National Fire Protection Association (NFPA)**
 
 This effort was made possible by:
 
-* Support from over **30 households** who responded to our initial outreach
-* Our Firewise Coordinator **Lynn Sestak**
-* The **Santa Cruz County Fire Safe Council**
+* Support from over **30 households** who responded to our initial outreach 👏👏👏
+* Our Firewise Coordinator **Lynn Sestak** at the **Santa Cruz County Fire Safe Council** 🙏
 
-Learn more about Firewise in Santa Cruz County:
-
-https://www.firesafesantacruz.org/firewise-usa-recognition-program
+Learn more about Firewise in Santa Cruz County at [https://www.firesafesantacruz.org/firewise-usa-recognition-program](https://www.firesafesantacruz.org/firewise-usa-recognition-program)
 
 Our community now includes **80 properties** from the Mount Bache / Highland junction up through parts of **Loma Prieta Way**.
 
-See the full boundary in our interactive map:
+See our community boundary in our [Interactive Map](https://mtbacheloma.org/map.html)
 
-https://mtbacheloma.org/map.html 
+<p align="center">
+<em>Mt Bache Loma Prieta Plus Firewise Steering Committee 2026!</em>
+</p>
+<p align="center">
+<img align="center" width="50%" src="Resources/SteeringCommitteePhotos/SteeringCommittee2026.png">
+</p>
+<p align="center">
+From left to right, Alyssa Plicka, Amy Winkler, Marilyn Thelen, Jim Parker
+</p>
 
----
+Participation in Firewise within Santa Cruz County is very high and growing every year! Peruse the latest Firewise community maps at:
 
-# Firewise Steering Committee 2026
+- [NFPA GIS Map](https://nfpa.maps.arcgis.com/apps/Viewer/index.html?appid=c4a788340df748f18d98d8363145bb67) of Firewise communities nationwide
+- [Santa Cruz County GIS Map](https://sccgis.maps.arcgis.com/apps/instant/basic/index.html?appid=2f4184e0622f48009be27031318be8e0) of Firewise communities within Santa Cruz County
 
-![Steering Committee](Resources/SteeringCommitteePhotos/SteeringCommittee2026.png)
-
-From left to right:
-
-* Alyssa Plicka
-* Amy Winkler
-* Marilyn Thelen
-* Jim Parker
 
 ---
 
 # Firewise Communities in Santa Cruz County
 
-Participation in Firewise is growing rapidly across the region.
+Participation in Firewise is growing rapidly across the region!
 
 Explore current Firewise communities:
 
-**NFPA Nationwide Map**
+* [**NFPA Nationwide Map**](https://nfpa.maps.arcgis.com/apps/Viewer/index.html?appid=c4a788340df748f18d98d8363145bb67)
 
-https://nfpa.maps.arcgis.com/apps/Viewer/index.html?appid=c4a788340df748f18d98d8363145bb67
-
-**Santa Cruz County Map**
-
-https://sccgis.maps.arcgis.com/apps/instant/basic/index.html?appid=2f4184e0622f48009be27031318be8e0
+* [**Santa Cruz County Map**](https://sccgis.maps.arcgis.com/apps/instant/basic/index.html?appid=2f4184e0622f48009be27031318be8e0)
 
 ---
 
@@ -240,7 +224,7 @@ We would love to hear from you!
 
 📧 **[firewise@mtbacheloma.org](mailto:firewise@mtbacheloma.org)**
 
-Send us questions, feedback, or requests to join the community email list.
+Send us questions, feedback, or requests to join the community email list
 
 ---
 
