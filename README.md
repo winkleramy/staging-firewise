@@ -80,9 +80,8 @@ The **California FAIR Plan** offers insurance discounts for:
 
 To apply for the Firewise discount, provide your insurance broker with:
 
-📄 **[Firewise Certificate](https://github.com/winkleramy/Firewise/blob/main/Mt%20Bache%20Loma%20Prieta%20Plus%20%202025%20Certificate.pdf)**
-
-🗺 **[Community Boundary Map](https://github.com/winkleramy/Firewise/blob/main/Resources/Community%20Boundary.png)**
+- 📄 **[Firewise Certificate](Mt%20Bache%20Loma%20Prieta%20Plus%20%202025%20Certificate.pdf)**
+- 🗺 **[Community Boundary Map](Resources/Community%20Boundary.png)**
 
 To explore additional discounts, visit the California Department of Insurance website [Safer from Wildfires](https://www.insurance.ca.gov/01-consumers/200-wrr/Safer-from-Wildfires.cfm)
 
