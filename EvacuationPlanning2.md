@@ -165,14 +165,6 @@ Based on map review and road geometry, the most influential segments appear to b
 
 ---
 
-## Key Observations
-
-- The Firewise community itself contributes a significant portion of the local evacuation traffic.
-- However, evacuation conditions will be strongly influenced by **traffic from neighboring ridge communities**.
-- Regional congestion along **Summit Road** is likely to control evacuation performance more than local streets alone.
-
----
-
 ## Recommended Next Steps
 
 1. Verify the **number of occupied parcels** along the Summit / Loma Prieta ridge corridor.

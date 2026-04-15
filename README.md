@@ -2,13 +2,14 @@
 
 ![Firewise Logo](Logo3.png)
 
-**Protecting lives, homes, and our forested environment through wildfire resilience.**
+***Protecting lives, homes, and our forested environment through wildfire resilience***
 
 ---
 
 ## Quick Links
 
 * 🛠 **[Participant Resources](https://winkleramy.github.io/Firewise/ParticipantResources.html)**
+* 💰 **[Insurance Discounts](#insurance-discounts)**
 * 📝 **[Log Time & Investment](https://winkleramy.github.io/Firewise/ParticipantResources.html#Log)**
 * 📅 **[Upcoming Events](https://winkleramy.github.io/Firewise/Events.html)**
 * 📧 **[Join the Email List](mailto:firewise@mtbacheloma.org?subject=Add%20Me%20to%20the%20Mt%20Bache%20Loma%20Prieta%20Plus%20Email%20List)**
@@ -24,7 +25,7 @@ Our mission is a **sustainable and resilient future for our community**, protect
 We focus on:
 
 * Wildfire readiness and evacuation planning
-* Home hardening and **Zone 0 ember defense**
+* Home hardening and Zone 0 ember defense
 * Defensible space and vegetation management
 
 ---
@@ -35,22 +36,18 @@ To see if your property is within the Firewise boundary:
 
 ### Option 1 — County Firewise Map
 
-Search your address on the Santa Cruz County map:
+- Search your address on the [Santa Cruz County Firewise Map](https://sccgis.maps.arcgis.com/apps/instant/basic/index.html?appid=2f4184e0622f48009be27031318be8e0)
 
-https://sccgis.maps.arcgis.com/apps/instant/basic/index.html?appid=2f4184e0622f48009be27031318be8e0
 
 ### Option 2 — Community Interactive Map
 
-View our community map here:
-
-https://mtbacheloma.org/map.html 
-
-The **community boundary is shown in blue**.
-Zoom in to confirm your specific address.
+- View our [Interactive Community Map](https://mtbacheloma.org/map.html)
+  - The *community boundary is outlined in blue*
+  - Zoom in to confirm your specific address
 
 ---
 
-# 2025 Community Impact
+# Community Impact
 
 🔥 Our community logged **$225,000 in wildfire resilience work in 2025!**
 
@@ -73,25 +70,37 @@ Please continue logging your time and investment:
 
 ---
 
-# Recommended Actions for This Year
+# Insurance Discounts
 
-Participation is **completely voluntary**, and every contribution helps.
+The **California FAIR Plan** offers insurance discounts for:
 
-Our priorities come from our **Community Risk Assessment and community survey**.
+* Firewise community participation
+* Home hardening improvements
+* Defensible space
+
+To apply for the Firewise discount, provide your insurance broker with:
+
+📄 **[Firewise Certificate](https://github.com/winkleramy/Firewise/blob/main/Mt%20Bache%20Loma%20Prieta%20Plus%20%202025%20Certificate.pdf)**
+
+🗺 **[Community Boundary Map](https://github.com/winkleramy/Firewise/blob/main/Resources/Community%20Boundary.png)**
+
+To explore additional discounts, visit the California Department of Insurance website [Safer from Wildfires](https://www.insurance.ca.gov/01-consumers/200-wrr/Safer-from-Wildfires.cfm)
+
+---
+
+# Recommended Actions
+
+Participation is **completely voluntary**, and every contribution helps
+
+Our priorities come from our **Community Survey and [Risk Assessment](Community%20Risk%20Assessment%20-%20Drive-through%20Report.pdf)**
 
 ---
 
 ## Home Hardening & Defensible Space
 
-Sign up for a **free Home Ignition Zone assessment** through the Santa Cruz County Fire Safe Council:
-
-https://www.firesafesantacruz.org/HIZ
-
-Join our email list before March to receive early notice of the Resource Conservation District’s:
-
-🌿 **Spring No-Cost Chipping Program**
-
-https://www.rcdsantacruz.org/spring-chipping-information
+- Sign up for a **free Home Ignition Zone assessment** through the Santa Cruz County Fire Safe Council, https://www.firesafesantacruz.org/HIZ
+- [Join our email list](mailto:firewise@mtbacheloma.org?subject=Add%20Me%20to%20the%20Mt%20Bache%20Loma%20Prieta%20Plus%20Email%20List) before March to receive early access to the Resource Conservation District's
+  - 🌿 [***Spring No-Cost Chipping Program***](https://www.rcdsantacruz.org/spring-chipping-information)
 
 ---
 
@@ -116,9 +125,7 @@ https://www.safetysign.com/products/8348/horizontal-911-address-sign
 Additional actions:
 
 * Test private fire hydrants for blockages
-* Participate in our **Community Map Project**
-
-https://map.mtbacheloma.org 
+* Participate in our **Community Map Project**, https://map.mtbacheloma.org 
 
 This map provides critical resource information to **CAL FIRE and other emergency responders**.
 
@@ -169,26 +176,6 @@ Firewise participation typically includes logging at least:
 
 * **1 hour of wildfire resilience work**, or
 * **$31.80 spent** on home hardening or defensible space improvements.
-
----
-
-# Insurance Discounts
-
-The **California FAIR Plan** offers insurance discounts for:
-
-* Firewise community participation
-* Home hardening improvements
-* Defensible space
-
-To apply for the Firewise discount, provide your insurance broker with:
-
-📄 **[Firewise Certificate](https://github.com/winkleramy/Firewise/blob/main/Mt%20Bache%20Loma%20Prieta%20Plus%20%202025%20Certificate.pdf)**
-
-🗺 **[Community Boundary Map](https://github.com/winkleramy/Firewise/blob/main/Resources/Community%20Boundary.png)**
-
-To explore additional discounts, visit:
-
-https://www.insurance.ca.gov/01-consumers/200-wrr/Safer-from-Wildfires.cfm
 
 ---
 
