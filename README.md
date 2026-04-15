@@ -113,14 +113,14 @@ Help firefighters respond safely and efficiently
 
 Available through:
 * Zayante Fire Reflective Sign Program
-https://zayantefire.com/reflective-sign-program/
+[https://zayantefire.com/reflective-sign-program/](https://zayantefire.com/reflective-sign-program/)
 
-* Brimar's Safety Sign https://www.safetysign.com/products/8348/horizontal-911-address-sign
+* Brimar's Safety Sign [https://www.safetysign.com/products/8348/horizontal-911-address-sign](https://www.safetysign.com/products/8348/horizontal-911-address-sign)
 
 Additional actions:
 
 * Test private fire hydrants for blockages
-* Participate in our **Community Map Project**, https://map.mtbacheloma.org 
+* Participate in our **Community Map Project**, [https://map.mtbacheloma.org](https://map.mtbacheloma.org)
 
 This map provides critical resource information to **CAL FIRE and other emergency responders**.
 
@@ -131,17 +131,17 @@ This map provides critical resource information to **CAL FIRE and other emergenc
 Install these wildfire and emergency apps:
 
 * 📱 **Watch Duty**
-https://app.watchduty.org/
+[https://app.watchduty.org/](https://app.watchduty.org/)
 
 * 📱 **PulsePoint**
-https://www.pulsepoint.org/
+[https://www.pulsepoint.org/](https://www.pulsepoint.org/)
 
 Register for Santa Cruz County emergency alerts:
 
 * 🚨 **CruzAware**
-https://cruzaware.genasys.com/portal/en
+[https://cruzaware.genasys.com/portal/en](https://cruzaware.genasys.com/portal/en)
 
-You can also join the **neighborhood WhatsApp group** for emergency communication.
+You can also [contact us](mailto:firewise@mtbacheloma.org?subject=Add%20my%20cell%20number%20to%20neighborhood%20WhatsApp) to join the **neighborhood WhatsApp group** for emergency communication.
 
 If needed, install WhatsApp first: [https://www.whatsapp.com/](https://www.whatsapp.com/)
 
@@ -153,7 +153,7 @@ Practice alternate evacuation routes such as:
 Horse properties may wish to review:
 
 🐎 **Equine Evac**
-https://www.equineevac.com/
+[https://www.equineevac.com/](https://www.equineevac.com/)
 
 ---
 
@@ -163,12 +163,12 @@ We encourage everyone to complete **at least one wildfire preparedness activity 
 
 See our upcoming events:
 
-📅 https://firewise.mtbacheloma.org/Events.html 
+📅 [Events](https://firewise.mtbacheloma.org/Events.html)
 
 Firewise participation typically includes logging at least:
 
 * **1 hour of wildfire resilience work**, or
-* **$31.80 spent** on home hardening or defensible space improvements.
+* **$31.80 spent** on home hardening or defensible space improvements,
 * *plus* **1 hour wildfire education** per year
 
 ---
@@ -212,9 +212,8 @@ Participation in Firewise is growing rapidly across the region!
 
 Explore current Firewise communities:
 
-* [**NFPA Nationwide Map**](https://nfpa.maps.arcgis.com/apps/Viewer/index.html?appid=c4a788340df748f18d98d8363145bb67)
-
-* [**Santa Cruz County Map**](https://sccgis.maps.arcgis.com/apps/instant/basic/index.html?appid=2f4184e0622f48009be27031318be8e0)
+* [NFPA Nationwide Map](https://nfpa.maps.arcgis.com/apps/Viewer/index.html?appid=c4a788340df748f18d98d8363145bb67)
+* [Santa Cruz County Map](https://sccgis.maps.arcgis.com/apps/instant/basic/index.html?appid=2f4184e0622f48009be27031318be8e0)
 
 ---
 
